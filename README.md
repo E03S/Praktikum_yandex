@@ -1,1 +1,2 @@
-# Praktikum_yandex_gaming
+# Praktikum_yandex
+This repository is a combination of all my projects done in Yandex Prektikum
