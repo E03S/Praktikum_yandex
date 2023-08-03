@@ -1,2 +1,8 @@
 # Praktikum_yandex
-This repository is a combination of all my projects done in Yandex Praktikum
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных" / "Специалист по Data Science".
+
+| Название проекта | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [faces](faces) | Определение возраста человека по фотографии| pandas, tensorflow (ResNet50, Sequential,ImageDataGenerator), matplotlib |
+|[gaming](gaming)| Анализ прордаж и составление профилей регионов | pandas, matplotlib|
+|[gold](gold)| ||
