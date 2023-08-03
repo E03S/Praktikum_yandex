@@ -6,4 +6,4 @@
 | [faces](faces) | Определение возраста человека по фотографии| pandas, tensorflow, matplotlib |
 |[gaming](gaming)| Анализ прордаж и составление профилей регионов | pandas, matplotlib|
 |[gold](gold)| Построение модели, котороя должна предсказать коэффициент восстановления золота из золотосодержащей руды.| pandas, numpy, sklearn, seaborn|
-|[industry](industry)|||
+|[industry](industry)| Прогнозирование температуры ковша по ходу процесса||
